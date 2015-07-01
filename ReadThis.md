@@ -1,5 +1,3 @@
-[![MEAN.JS Logo]
-
 ## In testing
 
-I'm testing 
+I'm testing
