@@ -6,8 +6,8 @@ module.exports = {
 		title: 'MeanLean - Development Environment'
 	},
 	facebook: {
-		clientID: process.env.FACEBOOK_ID || 'APP_ID',
-		clientSecret: process.env.FACEBOOK_SECRET || 'APP_SECRET',
+		clientID: process.env.FACEBOOK_ID || '386496048216386',
+		clientSecret: process.env.FACEBOOK_SECRET || '7489660fbeaa2f7c52fa2e953d44a388',
 		callbackURL: '/auth/facebook/callback'
 	},
 	twitter: {
